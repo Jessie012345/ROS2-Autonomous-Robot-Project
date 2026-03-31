@@ -1,4 +1,4 @@
-# Integrated ROS 2 Mobile Manipulator: A Multimodal Control Tutorial
+# ROS 2 Omni-Bot: Fully Autonomous Mobile Arm with Gesture Control, Voice Interaction & SLAM
 
 This repository provides a complete framework for an autonomous **Mobile Manipulator** (3-DOF arm + differential drive base) using **ROS 2 Humble**. 
 

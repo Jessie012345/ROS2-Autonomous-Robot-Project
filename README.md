@@ -81,15 +81,13 @@ A camera window will open showing your hand with a central yellow bounding box (
 3. **Vision Grasp & Multi-Waypoint Delivery (Peace Sign ✌️)**:
    * Hold up your index and middle fingers for 1 second.
    * The robot begins visual searching -> aligns with the red block -> grasps it.
-   * Once grasped, the robot autonomously navigates through multiple waypoints (avoiding walls) to Point B, lowers the arm, releases the vacuum, and returns to the Home pose.
 ![ezgif3 com-optimize](https://github.com/user-attachments/assets/a424cf2f-396a-4c98-9369-5544a95949d2)
+   * Once grasped, the robot autonomously navigates through multiple waypoints (avoiding walls) to Point B, lowers the arm, releases the vacuum, and returns to the Home pose.
 ![ezgif4 com-optimize](https://github.com/user-attachments/assets/f320b372-5d2a-461a-8303-b5c3260d47f1)
 
 
 **Preemption Feature**: You can interrupt any ongoing autonomous task! For example, while the robot is navigating to Point A, you can make a fist for 1 second to instantly cancel the navigation and regain manual chassis control.
 
-> **[GIF Placeholder 3: Webcam view showing the hand tracking UI, progress bar filling up, and the robot executing the gesture commands in Gazebo]**
-> <!-- <img src="docs/gifs/gesture_mission_full.gif" width="700"/> -->
 
 ---
 

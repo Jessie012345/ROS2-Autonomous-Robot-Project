@@ -32,7 +32,7 @@ ros2 launch car_model_moveit_config demo_gazebo.launch.py
 * The custom 3D house environment (`.world`) is loaded.
 * The Omni-Bot is spawned into the world. The `ros2_control` hardware interface and `MoveIt 2` nodes are initialized in the background.
 ![1](https://github.com/user-attachments/assets/73bf9947-ec95-4642-93f3-033f837b31bf)
-
+> <!-- <img src="docs/gifs/rviz_localization.gif" width="700"/> -->
 
 ### Step 2: Launch Navigation & RViz Localization (CRITICAL)
 Open **Terminal 2**:

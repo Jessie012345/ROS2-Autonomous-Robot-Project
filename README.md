@@ -1,11 +1,11 @@
 
-# 🤖 ROS 2 Omni-Bot: Fully Autonomous Mobile Arm with Gesture Control, Voice Interaction & SLAM
+# ROS 2 Omni-Bot: Fully Autonomous Mobile Arm with Gesture Control, Voice Interaction & SLAM
 
 This repository provides a highly integrated, end-to-end autonomous mobile manipulation system built on **ROS 2 Humble**. It features a custom 3-DOF robotic arm on a differential-drive base. The robot can be operated via offline voice recognition or real-time hand gestures, seamlessly transitioning into autonomous visual target searching, precision grasping, and SLAM-based navigation.
 
 ---
 
-## 0. Workspace Initialization
+## Workspace Initialization
 Before running any mission, we must compile the workspace. This ensures all custom C++ nodes, Python scripts, URDF/XACRO models, and parameter files are correctly linked.
 
 Open a terminal and run:
